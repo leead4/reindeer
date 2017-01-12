@@ -1,0 +1,10 @@
+div {
+	font-family: Georgia; serif;
+	font-size: 25px;
+	text-align: center;
+}
+
+body{
+	background-color: lightgreen;
+	color: darkred;
+}
